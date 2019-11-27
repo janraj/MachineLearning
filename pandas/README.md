@@ -4,6 +4,7 @@ This section discuss about the sytax, commands, methods  of pandas and its usage
 + [ViewingDataUsingHeadTail](03_ViewDatUsingHeadTail.py)
 + [InfoAboutData](04_InfoAboutDatUsingShapeAndInfo.py)
 + [HandleDuplicateData](05_HandleDuplicateData.py)
-+ [MissingValuesInDataFrameUsingDropna](06_MissingValuesByDropna.py)
++ [HandlingMissingValuesInDataFrameUsingDropna](06_MissingValuesByDropna.py)
++ [ImputationUsingMean](07_ImputationUsingMean.py)
 
 

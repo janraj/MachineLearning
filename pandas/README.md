@@ -9,5 +9,6 @@ This section discuss about the sytax, commands, methods  of pandas and its usage
 + [DataDistributionUsingDescribe](08_UsingDescribe.py)
 + [CorrelationUsingCorr](09_UsingCorr.py)
 + [Slice](10_slice.py)
++ [ConditionalSelection](11_selection.py)
 
 

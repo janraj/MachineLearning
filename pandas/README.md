@@ -1,5 +1,6 @@
-This section discuss about the sytax, commands and usage of panda package.
-+ 1 [DictionaryToDataFrame](01_CreateDataFrame.py)
-+ 2 [FilesToDataFrame](02_FilesToDataFrmae.py)
+This section discuss about the sytax, commands, methods  of pandas and its usage.
++ [DictionaryToDataFrame](01_CreateDataFrame.py)
++ [FilesToDataFrame](02_FilesToDataFrmae.py)
++ [ViewingDataUsingHeadTail](03_ViewDatUsingHeadTail.py)
 
 

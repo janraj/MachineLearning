@@ -1,5 +1,5 @@
 '''
- Data frame can be sliced into different chunks for better analytics
+ Data frame can be extracted and sliced into different chunks for better analytics
 '''
 import pandas as pd
 data = pd.read_csv('data/zoo.csv')

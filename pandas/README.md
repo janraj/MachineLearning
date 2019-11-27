@@ -6,5 +6,6 @@ This section discuss about the sytax, commands, methods  of pandas and its usage
 + [HandleDuplicateData](05_HandleDuplicateData.py)
 + [HandlingMissingValuesInDataFrameUsingDropna](06_MissingValuesByDropna.py)
 + [ImputationUsingMean](07_ImputationUsingMean.py)
++ [DataDistributionUsingDescribe](08_UsingDescribe.py)
 
 
